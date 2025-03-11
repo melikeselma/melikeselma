@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Melike👋
 
-<!--
-**melikeselma/melikeselma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Melike Genç's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=melikeselma&show_icons=true&theme=gotham)
 
-Here are some ideas to get you started:
+![Melike Genç's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=melikeselma&theme=gotham)
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/melike-genc)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gencmelike299@gmail.com)
+
+### Technologies and Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+<!-- 
+### CodeWars
+
+![CodeWars](https://www.codewars.com/users/urunsiyabend/badges/large) 
 -->
